@@ -14,7 +14,7 @@ mysql-python-client は、pythonで動作する(マイクロサービス)ラン�
 pip install "git+https://github.com/latonaio/mysql-python-client.git@main#egg=mysql_client"
 ```
 
-以下に記載されているコードで、設定を行ってください。  
+本リポジトリに格納されている setup.py で、ライブラリの構築を行ってください。  
 
 ```python
 setup(
